@@ -10,12 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JointYearbook">
         <activity
-            android:name=".NextActivity"
-            android:exported="false" />
-        <activity
-            android:name=".Next"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
